@@ -1,7 +1,7 @@
 # Mask-On
-Mask-On is real time face-mask detection which can detect human faces with and without face-mask through webcams and images.
+Mask-On is real time Face-Mask detector which can detect human faces with and without face-mask through webcams and images.
 
-# Motivation
+## Motivation
 The main motivation of this project came from the current situation. As we all know, 
 amidst COVID19 we cannot step outside, and even if we have to, we have to use 
 masks. It is observed that a lot of people neglect wearing masks. This can be dangerous 
