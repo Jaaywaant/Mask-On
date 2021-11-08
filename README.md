@@ -11,3 +11,5 @@ to look after it, but it also means that those security guards are risking their
 whether other people are wearing masks. By the use of this software along with the aid 
 of a camera, we can install the system at entrances instead of a security guard. This will 
 do the work for us and also keep these security guards safe. 
+
+# Result
