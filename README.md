@@ -12,4 +12,4 @@ whether other people are wearing masks. By the use of this software along with t
 of a camera, we can install the system at entrances instead of a security guard. This will 
 do the work for us and also keep these security guards safe. 
 
-# Result
+## Result
